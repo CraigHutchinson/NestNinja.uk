@@ -1,0 +1,43 @@
+---
+# Custom head content for NestNinja
+---
+
+<!-- Favicon -->
+<link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
+
+<!-- Open Graph / Social Media Meta Tags -->
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}">
+<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | absolute_url }}">
+{% else %}
+<meta property="og:image" content="{{ '/assets/og-image.png' | absolute_url }}">
+{% endif %}
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{ site.twitter.username }}">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}">
+<meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
+{% if page.image %}
+<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+{% else %}
+<meta name="twitter:image" content="{{ '/assets/og-image.png' | absolute_url }}">
+{% endif %}
+
+<!-- Additional Meta Tags -->
+<meta name="theme-color" content="#2a7ae2">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<!-- Plausible Analytics (privacy-friendly, optional) -->
+<!-- Uncomment when ready to add analytics:
+<script defer data-domain="nestninja.uk" src="https://plausible.io/js/script.js"></script>
+-->

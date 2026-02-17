@@ -1,0 +1,105 @@
+# NestNinja.uk - Smart Bird Box Website Configuration
+# Built with Jekyll and hosted on GitHub Pages
+
+title: NestNinja
+tagline: Smart Bird Watching Made Simple
+description: >-
+  NestNinja is a smart bird box with integrated camera and motion detection. 
+  Monitor birds in real-time with our ESP32-powered, low-power bird box camera system.
+  Open source hardware and firmware for bird enthusiasts.
+
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nestninja.uk" # the base hostname & protocol for your site
+author:
+  name: NestNinja Team
+email: "hello@nestninja.uk"
+
+# Social media
+github_username: CraigHutchinson
+twitter_username: NestNinjaUK
+
+# Build settings
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme 
+  - jekyll-feed
+  - jekyll-target-blank
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+# Collections for documentation
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
+  hardware:
+    output: true
+    permalink: /hardware/:path/
+  updates:
+    output: true
+    permalink: /updates/:path/
+
+# Exclude from processing
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor/
+  - .vscode/
+  - .git/
+
+# Show excerpts on homepage
+show_excerpts: true
+
+# Header navigation
+header_pages:
+  - products.md
+  - features.md
+  - hardware.md
+  - documentation.md
+  - community.md
+  - about.md
+
+# Minima theme settings
+minima:
+  skin: auto  # Adaptive light/dark theme
+  
+  # Date format
+  date_format: "%b %-d, %Y"
+  
+  # Social links in footer
+  social_links:
+    - { platform: github, user_url: "https://github.com/CraigHutchinson/NestNinja" }
+    - { platform: twitter, user_url: "https://twitter.com/NestNinjaUK" }
+
+# SEO settings
+twitter:
+  username: NestNinjaUK
+  card: summary_large_image
+
+# Google Analytics (optional - add your ID when ready)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "NestNinja Team"
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "hardware"
+    values:
+      layout: "page"
