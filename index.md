@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Welcome to NestNinja 🐦
-
 **Smart Bird Box Monitoring Made Simple**
 
 NestNinja brings modern technology to bird watching with premium smart bird box systems. Whether you want a complete ready-to-install solution, a smart camera for your existing bird box, or prefer to build your own with our open-source firmware, we've got you covered.

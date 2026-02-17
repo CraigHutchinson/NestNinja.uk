@@ -4,8 +4,6 @@ title: Community
 permalink: /community/
 ---
 
-# Community
-
 Join the NestNinja community! Whether you're building your first bird box or contributing code, we'd love to have you.
 
 ---

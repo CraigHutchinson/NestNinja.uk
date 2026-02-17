@@ -4,8 +4,6 @@ title: Hardware
 permalink: /hardware/
 ---
 
-# Hardware Overview
-
 NestNinja is built on the **Waveshare ESP32-P4-WIFI6 Development Board**, a high-performance platform combining the ESP32-P4 application processor with ESP32-C6 connectivity.
 
 ---

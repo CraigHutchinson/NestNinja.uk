@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About NestNinja
-
 **Smart Bird Watching for Everyone**
 
 NestNinja is an open-source project creating affordable, high-quality bird box camera systems for bird enthusiasts, researchers, and conservationists.

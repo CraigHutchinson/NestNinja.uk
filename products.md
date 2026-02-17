@@ -4,8 +4,6 @@ title: Products & Pricing
 permalink: /products/
 ---
 
-# Products & Pricing
-
 NestNinja offers three ways to experience smart bird monitoring. Choose the option that fits your needs, skills, and budget.
 
 ---

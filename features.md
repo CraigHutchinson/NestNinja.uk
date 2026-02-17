@@ -4,8 +4,6 @@ title: Features
 permalink: /features/
 ---
 
-# NestNinja Features
-
 ## Core Capabilities
 
 ### 🎥 High-Performance Video System

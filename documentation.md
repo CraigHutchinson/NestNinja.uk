@@ -4,8 +4,6 @@ title: Documentation
 permalink: /documentation/
 ---
 
-# Documentation
-
 Welcome to the NestNinja documentation. Here you'll find build guides, API references, and technical documentation.
 
 ---
