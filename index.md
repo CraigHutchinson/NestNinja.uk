@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Welcome to NestNinja 🐦
 ---
 
 **Smart Bird Box Monitoring Made Simple**
