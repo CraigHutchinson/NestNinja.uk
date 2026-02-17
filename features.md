@@ -79,13 +79,14 @@ permalink: /features/
 **Choose Your Level**
 - **Premium Complete System** - Ready-to-install bird box with integrated camera
 - **Smart Camera Module** - Add intelligence to your existing bird box
-- **DIY Build** - Open-source firmware for component-level builds (coming soon)
+- **DIY Build** - Community Edition open-source firmware for component-level builds (Q3 2026)
 
 **For Developers**
-- Firmware will be open-sourced (currently in development)
+- Community Edition firmware will be open-sourced (currently in development)
 - Hardware schematics planned for release
 - CMake build system
 - ESP-IDF v6.0+ framework
+- Premium features available commercially
 
 **Extensible Platform**
 - 27 GPIO pins available on 40-pin header

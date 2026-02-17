@@ -239,16 +239,16 @@ See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja/blob/mai
 ### DIY Builds
 
 **Community Supported:**
-- Build guides on GitHub (once firmware is open)
+- Build guides on GitHub (Community Edition releasing Q3 2026)
 - Component sourcing lists
 - Assembly instructions
 - Community forum for help
 
 ## Contributing
 
-Once firmware is open-sourced, we'll welcome contributions:
+We welcome contributions to the Community Edition:
 
-- [GitHub Repository](https://github.com/CraigHutchinson/NestNinja) (currently private)
+- [GitHub Repository](https://github.com/CraigHutchinson/NestNinja) (Community Edition - releasing Q3 2026)
 - [Community Forums](https://github.com/CraigHutchinson/NestNinja/discussions)
 - Development guidelines (coming soon)
 

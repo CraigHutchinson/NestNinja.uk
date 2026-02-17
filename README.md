@@ -7,9 +7,9 @@ Official website for NestNinja - Smart Bird Box with integrated camera system.
 This is the marketing and documentation website for the NestNinja project, built with Jekyll and hosted on GitHub Pages.
 
 NestNinja offers:
-- **Premium complete bird box systems** - Ready-to-install solutions with full support
+- **Premium complete bird box systems** - Ready-to-install solutions with full support and premium features
 - **Smart camera modules** - For users with existing bird boxes
-- **Open-source firmware** - For DIY builders (releasing Q3 2026)
+- **Community Edition firmware** - Full open-source firmware for DIY builders (releasing Q3 2026)
 
 ## Local Development
 
@@ -56,7 +56,7 @@ The site will be generated in the `_site/` directory.
 
 ## Contributing
 
-Contributions are welcome! Please see the [main NestNinja repository](https://github.com/CraigHutchinson/NestNinja) for firmware and hardware contributions.
+Contributions are welcome! Please see the [main NestNinja repository](https://github.com/CraigHutchinson/NestNinja) for Community Edition firmware and hardware contributions.
 
 For website improvements, please open an issue or pull request.
 
@@ -64,4 +64,4 @@ For website improvements, please open an issue or pull request.
 
 Website content: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-NestNinja firmware and hardware: See [main repository](https://github.com/CraigHutchinson/NestNinja)
+NestNinja Community Edition and hardware: See [main repository](https://github.com/CraigHutchinson/NestNinja)

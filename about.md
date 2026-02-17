@@ -6,7 +6,9 @@ permalink: /about/
 
 **Smart Bird Watching for Everyone**
 
-NestNinja is an open-source project creating affordable, high-quality bird box camera systems for bird enthusiasts, researchers, and conservationists.
+NestNinja is an **open core** project creating affordable, high-quality bird box camera systems for bird enthusiasts, researchers, and conservationists.
+
+We offer both a fully-featured open source **Community Edition** and commercial products with premium features.
 
 ---
 
@@ -16,7 +18,7 @@ To make bird monitoring accessible to everyone through quality products and open
 
 - **Hobbyists** to enjoy and study birds in their gardens with easy-to-use systems
 - **Tinkerers** to customize and enhance their bird boxes with smart camera modules
-- **Makers** to build custom solutions using our open-source firmware
+- **Makers** to build custom solutions using our Community Edition open-source firmware
 - **Educators** to teach students about nature and technology
 - **Researchers** to collect valuable behavioral data
 - **Conservationists** to monitor endangered species
@@ -34,7 +36,8 @@ A complete smart bird box system featuring:
 - Low power consumption
 - Local storage (no cloud required)
 - Wi-Fi 6 connectivity
-- Fully open source
+- Fully open source Community Edition
+- Premium features available commercially
 
 ### Why ESP32-P4?
 
@@ -76,17 +79,19 @@ See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja/blob/mai
 
 ### Quality Products, Open Innovation
 
-We offer premium products while supporting the maker community:
+We follow an **open core model**: the Community Edition firmware is fully open source, while premium features are developed separately for commercial products.
 
 **Commercial Products:**
 - High-quality complete bird box systems
 - Smart camera modules for DIY bird boxes  
 - Professional support and warranties
 - Easy setup for non-technical users
+- Advanced premium features (AI species recognition, cloud backup, fleet management)
 
-**Open Source Commitment:**
-- Firmware will be released as open source once stable
-- Hardware designs documented for the community
+**Community Edition (Open Source):**
+- Full bird box monitoring capabilities (HD streaming, night vision, motion detection)
+- Complete ESP32-P4 firmware source code
+- Hardware designs and documentation
 - Support for component-level DIY builds
 - Community-driven improvements welcomed
 
@@ -159,11 +164,13 @@ Interested? [Contact us](mailto:hello@nestninja.uk)
 - Smart camera modules: Proprietary hardware with commercial support
 
 **Open Source:**
-- **Firmware:** Will be released as open source (license TBD - likely GPL or Apache 2.0)
+- **Community Edition Firmware:** GPL-3.0 (full source code for core functionality)
 - **Hardware Designs:** Reference designs and schematics (license TBD)
 - **Documentation:** Creative Commons BY-SA 4.0
 
-**Timeline:** Firmware and designs will be open-sourced once product reaches stable commercial release (targeting Q3 2026).
+**Premium Features:** Proprietary (advanced AI, cloud services, fleet management)
+
+**Timeline:** Community Edition will be open-sourced when product reaches stable commercial release (targeting Q3 2026).
 
 ---
 

@@ -5,7 +5,7 @@ title: Welcome to NestNinja 🐦
 
 **Smart Bird Box Monitoring Made Simple**
 
-NestNinja brings modern technology to bird watching with premium smart bird box systems. Whether you want a complete ready-to-install solution, a smart camera for your existing bird box, or prefer to build your own with our open-source firmware, we've got you covered.
+NestNinja brings modern technology to bird watching with premium smart bird box systems. Whether you want a complete ready-to-install solution, a smart camera for your existing bird box, or prefer to build your own with our Community Edition open-source firmware, we've got you covered.
 
 <div class="feature-grid">
   <div class="feature">
@@ -35,7 +35,7 @@ NestNinja brings modern technology to bird watching with premium smart bird box 
   
   <div class="feature">
     <h3>🛠️ Flexible Options</h3>
-    <p>Premium complete systems, smart camera modules, or DIY with open-source firmware (coming soon).</p>
+    <p>Premium complete systems, smart camera modules, or DIY with Community Edition firmware (coming Q3 2026).</p>
   </div>
 </div>
 
@@ -70,12 +70,12 @@ NestNinja brings modern technology to bird watching with premium smart bird box 
     <h3>🛠️ DIY Build</h3>
     <p><strong>For makers who want complete control</strong></p>
     <ul style="text-align: left; display: inline-block;">
-      <li>Open-source firmware (Q3 2026)</li>
+      <li>Community Edition firmware (Q3 2026)</li>
       <li>Self-sourced components</li>
       <li>Community forums only</li>
     </ul>
     <p class="price">~£65-100 in parts</p>
-    <p class="availability">Firmware Q3 2026</p>
+    <p class="availability">Community Edition Q3 2026</p>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ NestNinja brings modern technology to bird watching with premium smart bird box 
 - **[Features](/features)** - Explore what NestNinja can do
 - **[Hardware](/hardware)** - Technical specifications and components
 - **[Documentation](/documentation)** - Build guides and API reference
-- **[GitHub](https://github.com/CraigHutchinson/NestNinja)** - Watch for open-source release
+- **[GitHub](https://github.com/CraigHutchinson/NestNinja)** - Community Edition repository (releasing Q3 2026)
 - **[Community](/community)** - Join discussions and get support
 
 ---

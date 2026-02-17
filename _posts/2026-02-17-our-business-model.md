@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Our Business Model: Premium Products + Open Source"
+title: "Our Business Model: Open Core - Community Edition + Premium Features"
 date: 2026-02-17 16:00:00 +0000
 categories: announcement business
 author: NestNinja Team
 ---
 
-We want to be transparent about how NestNinja works as both a commercial venture and an open-source project.
+We want to be transparent about how NestNinja works: we follow an **open core model** with both a fully-featured open source Community Edition and commercial products with premium features.
 
 ## Three Ways to Get NestNinja
 
@@ -50,9 +50,9 @@ This option gives you flexibility to use your own bird box while getting a relia
 
 **Perfect for:** Makers, developers, and electronics enthusiasts
 
-Build from scratch using our open-source firmware:
+Build from scratch using our Community Edition open-source firmware:
 - Source your own ESP32-P4 board, camera, sensors
-- Use our open-source firmware (releasing Q3 2026)
+- Use our Community Edition open-source firmware (releasing Q3 2026)
 - Full hardware documentation and schematics
 - Build guides and component lists
 
@@ -86,11 +86,20 @@ Not everyone wants to solder components or debug firmware issues. Many bird enth
 
 ### Innovation & Community
 
-**We believe in open source.** Once our firmware is stable and our business is sustainable, we'll release:
-- Full firmware source code
+**We believe in open core.** The Community Edition firmware is fully open source, providing:
+- Full bird box monitoring capabilities (HD streaming, night vision, motion detection)
+- Local recording and web interface
+- Complete ESP32-P4 firmware source code
 - Hardware schematics and PCB designs
 - Bill of materials (BOM)
 - Build instructions
+
+**Premium features** (developed separately for commercial products):
+- Advanced AI species recognition
+- Cloud backup and remote access
+- Multi-box fleet management
+- Professional API access
+- Enterprise integrations
 
 This enables:
 - Custom modifications
@@ -117,7 +126,7 @@ The maker community can build on our work, and we can incorporate community impr
 
 **Q3 2026:**
 - Commercial product launch
-- **Firmware open-sourced** 🎉
+- **Community Edition open-sourced** 🎉
 - Hardware designs published
 - Community build guides released
 
@@ -165,10 +174,11 @@ For DIY builds:
 
 ### To the Maker Community:
 
-✅ **Open Source** - Firmware and designs will be released  
+✅ **Open Core** - Community Edition is fully open source  
+✅ **Full Features** - Community Edition has complete bird monitoring capabilities  
 ✅ **Documentation** - Comprehensive build guides  
 ✅ **Community** - Active forums and discussions  
-✅ **Transparency** - Clear about what's open vs commercial  
+✅ **Transparency** - Clear about what's in Community Edition vs premium  
 ✅ **Collaboration** - We'll accept community contributions
 
 ### To Bird Welfare:
@@ -184,19 +194,19 @@ For DIY builds:
 
 **Q: Why not make everything open from day one?**
 
-A: We need revenue to sustain development. Releasing unfinished firmware would create support burden we can't handle yet. Once stable, we'll open-source it.
+A: We're following an open core model. The Community Edition (releasing Q3 2026) has full bird monitoring capabilities. Premium features (cloud services, advanced AI, fleet management) are developed separately to sustain the business.
 
 **Q: Will you always offer a DIY option?**
 
-A: Yes! Once open-sourced, the firmware will always be available for DIY builds.
+A: Yes! The Community Edition will always be available for DIY builds.
 
 **Q: Can I modify the firmware on premium products?**
 
-A: Yes! It's running on standard ESP32 hardware. Once firmware is open-source, you can flash custom builds. (This may affect warranty.)
+A: Yes! Premium products run the same Community Edition core with additional premium modules. You can flash custom Community Edition builds. (Premium features require licensing and may affect warranty.)
 
 **Q: What if the project fails commercially?**
 
-A: We commit to open-sourcing all firmware and designs if we discontinue products. Your hardware will remain usable.
+A: The Community Edition code is already open source (releasing Q3 2026), so your hardware will remain usable regardless of our commercial success.
 
 **Q: Will community contributions be accepted?**
 

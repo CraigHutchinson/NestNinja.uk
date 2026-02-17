@@ -25,9 +25,24 @@ Topics:
 
 ### GitHub Repository
 
-Our firmware will be open-sourced once it reaches stable release. In the meantime, follow development progress:
+NestNinja follows an **open core model**: the full community edition firmware is open source, while premium features are developed separately.
 
 **[View on GitHub →](https://github.com/CraigHutchinson/NestNinja)**
+
+**Community Edition (Open Source):**
+- ✅ Full bird box monitoring capabilities
+- ✅ Local video recording and streaming
+- ✅ Motion detection and alerts
+- ✅ Web-based configuration interface
+- ✅ WiFi setup and network management
+- ✅ Complete ESP32-P4 firmware source code
+
+**Premium Features (Commercial Products):**
+- ⭐ Advanced AI species recognition
+- ⭐ Cloud backup and remote access
+- ⭐ Multi-box fleet management
+- ⭐ Professional API access
+- ⭐ Priority support and updates
 
 *Note: Repository is currently private during initial development. We'll announce when it goes public!*
 
@@ -59,11 +74,11 @@ Our firmware will be open-sourced once it reaches stable release. In the meantim
 
 **DIY Component Builders:**
 - Community forum support only
-- Open-source firmware (once released)
+- Full open-source Community Edition firmware
 - Community-contributed guides
 - Self-service troubleshooting
 
-We welcome all kinds of contributions once the firmware is open-sourced:
+We welcome all kinds of contributions to the open source Community Edition:
 
 ### Future Code Contributions
 - Fix bugs
@@ -180,12 +195,13 @@ Thank you to everyone who has contributed to NestNinja!
 
 ## 🌟 Support the Project
 
-NestNinja is free and open source. If you find it useful, consider:
+The NestNinja Community Edition is free and open source. If you find it useful, consider:
 
 - ⭐ **Starring** the [GitHub repository](https://github.com/CraigHutchinson/NestNinja)
 - 🐦 **Sharing** about NestNinja on social media
 - 📝 **Writing** about your experience
 - 🤝 **Contributing** code or documentation
+- 🛒 **Purchasing** a premium product to support development
 - ☕ **Buying us a coffee** (coming soon - if we set up sponsorship)
 
 ---
