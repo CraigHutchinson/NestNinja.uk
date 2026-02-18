@@ -83,8 +83,8 @@ minima:
   
   # Social links in footer
   social_links:
-    - { platform: github, user_url: "https://github.com/CraigHutchinson/NestNinja" }
-    - { platform: twitter, user_url: "https://twitter.com/NestNinjaUK" }
+    - { url: "https://github.com/CraigHutchinson/NestNinja", icon: "github", title: "GitHub" }
+    - { url: "https://twitter.com/NestNinjaUK", icon: "x-twitter", title: "Twitter / X" }
 
 # SEO settings
 twitter:
