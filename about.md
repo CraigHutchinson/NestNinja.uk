@@ -170,7 +170,7 @@ Interested? [Contact us](mailto:hello@nestninja.uk)
 
 **Premium Features:** Proprietary (advanced AI, cloud services, fleet management)
 
-**Timeline:** Community Edition will be open-sourced when product reaches stable commercial release (targeting Q3 2026).
+**Timeline:** Community Edition will be open-sourced when product reaches stable commercial release (targeting late 2026).
 
 ---
 

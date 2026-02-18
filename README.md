@@ -9,7 +9,7 @@ This is the marketing and documentation website for the NestNinja project, built
 NestNinja offers:
 - **Premium complete bird box systems** - Ready-to-install solutions with full support and premium features
 - **Smart camera modules** - For users with existing bird boxes
-- **Community Edition firmware** - Full open-source firmware for DIY builders (releasing Q3 2026)
+- **Community Edition firmware** - Full open-source firmware for DIY builders (releasing late 2026)
 
 ## Local Development
 

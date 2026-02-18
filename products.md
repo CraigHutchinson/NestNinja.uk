@@ -38,7 +38,7 @@ NestNinja offers three ways to experience smart bird monitoring. Choose the opti
 
 **Price:** £250-300 (estimated, final pricing TBA)
 
-**Availability:** Q2 2026 (pre-orders opening soon)
+**Availability:** Late 2026 (pre-orders opening when ready)
 
 [Join Waitlist](#) *(coming soon)*
 
@@ -79,7 +79,7 @@ NestNinja offers three ways to experience smart bird monitoring. Choose the opti
 
 **Price:** £120-150 (estimated)
 
-**Availability:** Q3 2026
+**Availability:** 2027
 
 [Expression of Interest](#) *(coming soon)*
 
@@ -121,9 +121,9 @@ NestNinja offers three ways to experience smart bird monitoring. Choose the opti
 
 **Cost:** £65-100 depending on suppliers and shipping
 
-**Availability:** Firmware and docs Q3 2026
+**Availability:** Firmware and docs late 2026
 
-[Watch GitHub](#) *(repository will be public Q3 2026)*
+[Watch GitHub](#) *(repository will be public when stable)*
 
 ---
 
@@ -231,10 +231,10 @@ A: Yes! Contact us for commercial/research pricing and volume discounts.
 
 ## Pre-Order & Notifications
 
-Product launches are coming in 2026:
-- **Q2 2026**: Premium Complete Systems
-- **Q3 2026**: Smart Camera Modules
-- **Q3 2026**: Open-source firmware release
+Product development is progressing:
+- **Late 2026**: Premium Complete Systems (target)
+- **2027**: Smart Camera Modules
+- **Late 2026**: Open-source firmware release (when stable)
 
 **Get notified:**
 - 📧 Email list (coming soon)

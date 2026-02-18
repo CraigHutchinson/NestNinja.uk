@@ -79,7 +79,7 @@ permalink: /features/
 **Choose Your Level**
 - **Premium Complete System** - Ready-to-install bird box with integrated camera
 - **Smart Camera Module** - Add intelligence to your existing bird box
-- **DIY Build** - Community Edition open-source firmware for component-level builds (Q3 2026)
+- **DIY Build** - Community Edition open-source firmware for component-level builds (late 2026)
 
 **For Developers**
 - Community Edition firmware will be open-sourced (currently in development)

@@ -45,7 +45,7 @@ We're currently in the **architecture finalization phase**. This involves:
 - Optimizing power management strategies
 - Developing the core firmware architecture
 
-**Development Status:** Firmware is currently private during initial development. We'll open-source it once we reach stable release (targeting Q3 2026).
+**Development Status:** Firmware is currently private during initial development. We'll open-source it once we reach stable release (targeting late 2026).
 
 Follow updates on our [GitHub repository](https://github.com/CraigHutchinson/NestNinja) (will be public soon!).
 

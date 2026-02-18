@@ -233,7 +233,7 @@ If you prefer to source components yourself:
 - Amazon for general items
 - Local electronics shops
 
-**Note:** DIY builds require technical skills and are supported through community forums only. Community Edition firmware will be released Q3 2026.
+**Note:** DIY builds require technical skills and are supported through community forums only. Community Edition firmware will be released late 2026.
 
 ---
 

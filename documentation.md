@@ -239,7 +239,7 @@ See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja/blob/mai
 ### DIY Builds
 
 **Community Supported:**
-- Build guides on GitHub (Community Edition releasing Q3 2026)
+- Build guides on GitHub (Community Edition releasing late 2026)
 - Component sourcing lists
 - Assembly instructions
 - Community forum for help
@@ -248,7 +248,7 @@ See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja/blob/mai
 
 We welcome contributions to the Community Edition:
 
-- [GitHub Repository](https://github.com/CraigHutchinson/NestNinja) (Community Edition - releasing Q3 2026)
+- [GitHub Repository](https://github.com/CraigHutchinson/NestNinja) (Community Edition - releasing late 2026)
 - [Community Forums](https://github.com/CraigHutchinson/NestNinja/discussions)
 - Development guidelines (coming soon)
 

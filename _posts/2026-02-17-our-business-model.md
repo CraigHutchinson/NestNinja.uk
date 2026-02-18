@@ -52,7 +52,7 @@ This option gives you flexibility to use your own bird box while getting a relia
 
 Build from scratch using our Community Edition open-source firmware:
 - Source your own ESP32-P4 board, camera, sensors
-- Use our Community Edition open-source firmware (releasing Q3 2026)
+- Use our Community Edition open-source firmware (releasing late 2026)
 - Full hardware documentation and schematics
 - Build guides and component lists
 
@@ -114,27 +114,29 @@ The maker community can build on our work, and we can incorporate community impr
 
 ## Timeline
 
-**Current (Q1 2026):**
-- Firmware development (private)
-- Hardware testing and refinement
-- Website and branding
+**Q1-Q2 2026 (Current Phase):**
+- Firmware development and refinement
+- Hardware testing and iteration
+- Website and community building
+- Initial documentation
 
-**Q2 2026:**
+**Q3 2026 (Beta Phase):**
 - Beta testing with early adopters
-- Final hardware design
-- Pre-orders for premium products
+- Hardware design finalization
+- Community feedback integration
 
-**Q3 2026:**
+**Late 2026 (Initial Release):**
 - Commercial product launch
 - **Community Edition open-sourced** 🎉
-- Hardware designs published
+- Hardware designs and schematics published
 - Community build guides released
 
-**Q4 2026 & Beyond:**
-- Smart camera module launch
-- Mobile apps
-- Additional features
-- Community contributions integrated
+**2027 and Beyond:**
+- Smart camera module availability
+- Mobile app development
+- Enhanced features based on community feedback
+- Ongoing community contributions and collaboration
+- Additional product variants as demand dictates
 
 ---
 
@@ -194,7 +196,7 @@ For DIY builds:
 
 **Q: Why not make everything open from day one?**
 
-A: We're following an open core model. The Community Edition (releasing Q3 2026) has full bird monitoring capabilities. Premium features (cloud services, advanced AI, fleet management) are developed separately to sustain the business.
+A: We're following an open core model. The Community Edition (releasing late 2026) has full bird monitoring capabilities. Premium features (cloud services, advanced AI, fleet management) are developed separately to sustain the business.
 
 **Q: Will you always offer a DIY option?**
 
@@ -206,7 +208,7 @@ A: Yes! Premium products run the same Community Edition core with additional pre
 
 **Q: What if the project fails commercially?**
 
-A: The Community Edition code is already open source (releasing Q3 2026), so your hardware will remain usable regardless of our commercial success.
+A: The Community Edition code will be open source (releasing late 2026), so your hardware will remain usable regardless of our commercial success.
 
 **Q: Will community contributions be accepted?**
 
