@@ -148,4 +148,8 @@ Capture amazing footage for documentaries, time-lapses, or simply sharing with f
 
 ---
 
-[View Hardware Details](/hardware) | [Read Documentation](/documentation) | [Join Community](/community)
+<div class="cta-buttons">
+  <a href="/hardware" class="btn">View Hardware Details</a>
+  <a href="/documentation" class="btn">Read Documentation</a>
+  <a href="/community" class="btn btn-primary">Join Community</a>
+</div>
