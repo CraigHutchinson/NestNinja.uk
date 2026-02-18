@@ -20,7 +20,16 @@ github_username: CraigHutchinson
 twitter_username: NestNinjaUK
 
 # Build settings
-remote_theme: jekyll/minima
+# Explicitly track master to get latest accessibility fixes (Oct 2025+)
+remote_theme: jekyll/minima@master
+
+# Suppress Sass deprecation warnings from the minima theme dependency
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
 
 plugins:
   - jekyll-remote-theme 

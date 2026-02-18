@@ -14,24 +14,39 @@ NestNinja offers:
 ## Local Development
 
 ### Prerequisites
-- Ruby 2.7+
-- Bundler
+
+| Requirement | Version | Install |
+|---|---|---|
+| [Ruby](https://www.ruby-lang.org/en/downloads/) | 3.1+ | Windows: [RubyInstaller](https://rubyinstaller.org/downloads/) · macOS/Linux: [rbenv](https://github.com/rbenv/rbenv) or [RVM](https://rvm.io/) |
+| [Bundler](https://bundler.io/) | 2.x | `gem install bundler` |
+| [Jekyll](https://jekyllrb.com/docs/installation/) | 4.x | Installed automatically via `bundle install` |
+| [Git](https://git-scm.com/downloads) | any | Required to clone the repository |
+
+> **Windows note:** Use [RubyInstaller with DevKit](https://rubyinstaller.org/downloads/) (x64, recommended) and select the MSYS2 toolchain when prompted.
+
+> **GitHub Pages:** This site uses the [`github-pages`](https://pages.github.com/) gem to keep dependency versions in sync with the live hosting environment. See the [GitHub Pages dependency versions](https://pages.github.com/versions/) for the exact Jekyll version used.
 
 ### Setup
 
 ```bash
-# Install dependencies
+# Clone the repository
+git clone https://github.com/CraigHutchinson/NestNinja.uk.git
+cd NestNinja.uk
+
+# Install all dependencies (Jekyll, plugins, etc.)
 bundle install
 
-# Run local server
-bundle exec jekyll serve
+# Run a local development server with live reload
+bundle exec jekyll serve --livereload
 
-# View at http://localhost:4000
+# View the site at:
+#   http://localhost:4000
 ```
 
 ### Building
 
 ```bash
+# Build the static site for production
 bundle exec jekyll build
 ```
 
