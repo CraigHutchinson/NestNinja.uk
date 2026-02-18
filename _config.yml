@@ -66,18 +66,19 @@ exclude:
 show_excerpts: true
 
 # Header navigation
-header_pages:
-  - products.md
-  - features.md
-  - hardware.md
-  - documentation.md
-  - community.md
-  - about.md
-
 # Minima theme settings
 minima:
   skin: auto  # Adaptive light/dark theme
-  
+
+  # Navigation pages (minima master uses nav_pages, not header_pages)
+  nav_pages:
+    - products.md
+    - features.md
+    - hardware.md
+    - documentation.md
+    - community.md
+    - about.md
+
   # Date format
   date_format: "%b %-d, %Y"
   
