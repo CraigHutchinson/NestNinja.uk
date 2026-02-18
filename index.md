@@ -3,52 +3,53 @@ layout: home
 title: Welcome to NestNinja 🐦
 ---
 
-**Smart Bird Box Monitoring Made Simple**
+**Never miss a moment in your bird box.**
 
-NestNinja brings modern technology to bird watching with premium smart bird box systems. Whether you want a complete ready-to-install solution, a smart camera for your existing bird box, or prefer to build your own with our Community Edition open-source firmware, we've got you covered.
+NestNinja turns any bird box into a live camera system — stream HD video, get motion alerts, and watch nesting unfold from your phone. Simple to set up, built to last outdoors, and designed for bird lovers first.
 
 <div class="feature-grid">
   <div class="feature">
-    <h3>📹 HD Video Streaming</h3>
-    <p>1080p real-time streaming with H.264 encoding. Watch birds in crystal clear quality from anywhere.</p>
+    <h3>📹 Watch Live, Anywhere</h3>
+    <p>Crystal-clear HD video streamed straight to your device. Watch from the garden or the other side of the world.</p>
   </div>
   
   <div class="feature">
-    <h3>🌙 Night Vision</h3>
-    <p>160° fisheye camera with IR LEDs for 24/7 monitoring, day or night.</p>
+    <h3>🌙 See in the Dark</h3>
+    <p>Built-in infrared night vision means you never miss the night shift — without disturbing your birds.</p>
   </div>
   
   <div class="feature">
-    <h3>🔋 Low Power Design</h3>
-    <p>PIR motion detection wakes the system only when needed. Deep sleep mode extends battery life.</p>
+    <h3>🔋 Runs for Months</h3>
+    <p>Sleeps when nothing's happening and wakes the moment birds arrive. Works on battery or solar — even in remote spots.</p>
   </div>
   
   <div class="feature">
-    <h3>📡 Wi-Fi 6 Ready</h3>
-    <p>Modern connectivity with ESP32-C6 co-processor for reliable wireless streaming.</p>
+    <h3>📡 Reliable Wi-Fi</h3>
+    <p>Modern Wi-Fi 6 keeps the stream smooth even with weak signal, through walls and hedgerows.</p>
   </div>
   
   <div class="feature">
-    <h3>💾 Local Storage</h3>
-    <p>SD card support for recording and time-lapse features.</p>
+    <h3>💾 Record Everything</h3>
+    <p>Saves video locally to a memory card so you can revisit nesting moments, time-lapses, and first flights.</p>
   </div>
   
   <div class="feature">
-    <h3>🛠️ Flexible Options</h3>
-    <p>Premium complete systems, smart camera modules, or DIY with Community Edition firmware (releasing later in 2026).</p>
+    <h3>🛠️ Your Choice</h3>
+    <p>Buy a complete ready-to-go system, upgrade your existing bird box with a camera module, or build your own.</p>
   </div>
 </div>
 
 ---
 
-## Choose Your Path
+## Find Your Perfect Fit
 
 <div class="product-tiers">
   <div class="product-tier">
-    <h3>🏆 Premium Complete System</h3>
-    <p><strong>For bird watchers who want plug-and-play</strong></p>
+    <h3>🏆 Complete System</h3>
+    <p><strong>Everything included, ready to hang</strong></p>
     <ul style="text-align: left; display: inline-block;">
-      <li>Complete smart bird box with camera</li>
+      <li>Smart bird box with camera built in</li>
+      <li>Just plug in and watch</li>
       <li>Professional support included</li>
     </ul>
     <p class="price">~£200-300</p>
@@ -56,11 +57,12 @@ NestNinja brings modern technology to bird watching with premium smart bird box 
   </div>
 
   <div class="product-tier">
-    <h3>🔧 Smart Camera Module</h3>
-    <p><strong>For tinkerers with existing bird boxes</strong></p>
+    <h3>🔧 Camera Upgrade Kit</h3>
+    <p><strong>Bring your existing bird box to life</strong></p>
     <ul style="text-align: left; display: inline-block;">
-      <li>Pre-assembled camera unit</li>
-      <li>Community support + guides</li>
+      <li>Fits most standard bird boxes</li>
+      <li>Pre-assembled, easy to mount</li>
+      <li>Guides and community support</li>
     </ul>
     <p class="price">~£100-150</p>
     <p class="availability">Coming 2027</p>
@@ -68,11 +70,11 @@ NestNinja brings modern technology to bird watching with premium smart bird box 
 
   <div class="product-tier">
     <h3>🛠️ DIY Build</h3>
-    <p><strong>For makers who want complete control</strong></p>
+    <p><strong>Full control for makers</strong></p>
     <ul style="text-align: left; display: inline-block;">
-      <li>Community Edition firmware (Late 2026)</li>
-      <li>Self-sourced components</li>
-      <li>Community forums only</li>
+      <li>Open-source firmware (Late 2026)</li>
+      <li>Source your own components</li>
+      <li>Community forums</li>
     </ul>
     <p class="price">~£65-100 in parts</p>
     <p class="availability">Community Edition Late 2026</p>
@@ -86,21 +88,10 @@ NestNinja brings modern technology to bird watching with premium smart bird box 
 
 ---
 
-## Quick Links
-
-- **[Products & Pricing](/products)** - Choose your NestNinja option
-- **[Features](/features)** - Explore what NestNinja can do
-- **[Hardware](/hardware)** - Technical specifications and components
-- **[Documentation](/documentation)** - Build guides and API reference
-- **[GitHub](https://github.com/CraigHutchinson/NestNinja)** - Community Edition repository (releasing late 2026)
-- **[Community](/community)** - Join discussions and get support
-
----
-
 ## Project Status
 
-🔄 **Active Development** - Currently in prototype phase
+🔄 **In Active Development** — Currently building and testing prototypes.
 
-We're working through the architecture decisions and core component integration. Follow our development roadmap and contribute on GitHub!
+We're sharing our progress openly as we go. Follow along, ask questions, and join the community shaping NestNinja.
 
 ### Latest Updates
