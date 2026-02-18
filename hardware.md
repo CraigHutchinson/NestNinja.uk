@@ -12,7 +12,7 @@ NestNinja is built on the **Waveshare ESP32-P4-WIFI6 Development Board**, a high
 
 ### Waveshare ESP32-P4-WIFI6
 
-<div class="hardware-section">
+<div class="hardware-section" markdown="1">
 
 **Core Processor: ESP32-P4**
 - 400MHz dual-core RISC-V processor
@@ -46,7 +46,7 @@ NestNinja is built on the **Waveshare ESP32-P4-WIFI6 Development Board**, a high
 
 ### OV5647 with 160° Fisheye Lens
 
-<div class="hardware-section">
+<div class="hardware-section" markdown="1">
 
 **Specifications:**
 - **Sensor:** OV5647 (5 megapixel)
@@ -72,7 +72,7 @@ NestNinja is built on the **Waveshare ESP32-P4-WIFI6 Development Board**, a high
 
 ### HC-SR501 PIR Sensor
 
-<div class="hardware-section">
+<div class="hardware-section" markdown="1">
 
 **Purpose:** Wake the ESP32-P4 from deep sleep when bird motion is detected
 
