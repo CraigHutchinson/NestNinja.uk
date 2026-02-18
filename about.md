@@ -248,4 +248,7 @@ Happy bird watching! 🦜
 
 ---
 
-[← Community](/community) | [View GitHub →](https://github.com/CraigHutchinson/NestNinja)
+<div class="cta-buttons">
+  <a href="/community" class="btn btn-secondary">← Community</a>
+  <a href="https://github.com/CraigHutchinson/NestNinja" class="btn btn-primary">View on GitHub →</a>
+</div>

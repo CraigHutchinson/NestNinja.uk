@@ -270,4 +270,7 @@ We welcome contributions to the Community Edition:
 
 ---
 
-[← Hardware Overview](/hardware) | [Join Community →](/community)
+<div class="cta-buttons">
+  <a href="/hardware" class="btn btn-secondary">← Hardware Overview</a>
+  <a href="/community" class="btn btn-primary">Join Community →</a>
+</div>

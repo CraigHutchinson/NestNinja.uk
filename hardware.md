@@ -247,4 +247,7 @@ For detailed hardware information, architecture decisions, and pinout diagrams:
 
 ---
 
-[← Back to Features](/features) | [Documentation →](/documentation)
+<div class="cta-buttons">
+  <a href="/features" class="btn btn-secondary">← Back to Features</a>
+  <a href="/documentation" class="btn btn-primary">Documentation →</a>
+</div>

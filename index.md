@@ -79,7 +79,10 @@ NestNinja brings modern technology to bird watching with premium smart bird box 
   </div>
 </div>
 
-[Learn More About Our Model →](/2026/02/17/our-business-model.html) | [Compare All Options →](/products)
+<div class="cta-buttons">
+  <a href="/2026/02/17/our-business-model.html" class="btn btn-secondary">Learn More About Our Model →</a>
+  <a href="/products" class="btn btn-primary">Compare All Options →</a>
+</div>
 
 ---
 

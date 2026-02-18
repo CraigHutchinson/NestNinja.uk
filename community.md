@@ -14,7 +14,9 @@ Join the NestNinja community! Whether you're building your first bird box or con
 
 The best place for technical discussions, feature requests, and general questions.
 
-**[Join GitHub Discussions →](https://github.com/CraigHutchinson/NestNinja/discussions)**
+<div class="cta-buttons" style="justify-content: flex-start;">
+  <a href="https://github.com/CraigHutchinson/NestNinja/discussions" class="btn btn-primary">Join GitHub Discussions →</a>
+</div>
 
 Topics:
 - 💡 Ideas and feature requests
@@ -27,7 +29,9 @@ Topics:
 
 NestNinja follows an **open core model**: the full community edition firmware is open source, while premium features are developed separately.
 
-**[View on GitHub →](https://github.com/CraigHutchinson/NestNinja)**
+<div class="cta-buttons" style="justify-content: flex-start;">
+  <a href="https://github.com/CraigHutchinson/NestNinja" class="btn btn-secondary">View on GitHub →</a>
+</div>
 
 **Community Edition (Open Source):**
 - ✅ Full bird box monitoring capabilities
@@ -206,4 +210,7 @@ The NestNinja Community Edition is free and open source. If you find it useful, 
 
 ---
 
-[← Documentation](/documentation) | [About →](/about)
+<div class="cta-buttons">
+  <a href="/documentation" class="btn btn-secondary">← Documentation</a>
+  <a href="/about" class="btn btn-primary">About →</a>
+</div>
