@@ -86,6 +86,12 @@ NestNinja turns any bird box into a live camera system — stream HD video, get 
   <a href="/products" class="btn btn-primary">Compare All Options →</a>
 </div>
 
+<div class="hub-teaser">
+  <span class="hub-teaser-badge">🌐 Coming Soon</span>
+  <span><strong>NestNinja Hub</strong> — share your live camera feed with the community. Browse live nest cameras from NestNinja boxes across the UK.</span>
+  <a href="https://hub.nestninja.uk">Explore the Hub →</a>
+</div>
+
 ---
 
 ## Project Status

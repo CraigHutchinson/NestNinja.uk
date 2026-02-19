@@ -38,6 +38,7 @@ A complete smart bird box system featuring:
 - Wi-Fi 6 connectivity
 - Fully open source Community Edition
 - Premium features available commercially
+- **[NestNinja Hub](https://hub.nestninja.uk)** — community camera feed discovery (planned)
 
 ### Why ESP32-P4?
 
