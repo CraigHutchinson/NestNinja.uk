@@ -10,7 +10,7 @@ NestNinja turns any bird box into a live camera system — stream HD video, get 
 <div class="hub-teaser hub-teaser--hero">
   <span class="hub-teaser-badge">🌐 NestNinja Hub</span>
   <span>Share your live nest camera with the world — or browse feeds from bird boxes across the UK.</span>
-  <a href="https://hub.nestninja.uk">Discover the Hub →</a>
+  <a href="{{ site.hub_url }}">Discover the Hub →</a>
 </div>
 
 <div class="feature-grid">
@@ -41,7 +41,7 @@ NestNinja turns any bird box into a live camera system — stream HD video, get 
   
   <div class="feature">
     <h3>🌐 Share &amp; Discover</h3>
-    <p>Opt in to <a href="https://hub.nestninja.uk">NestNinja Hub</a> and share your live feed with the community — or browse cameras from bird boxes across the UK.</p>
+    <p>Opt in to <a href="{{ site.hub_url }}">NestNinja Hub</a> and share your live feed with the community — or browse cameras from bird boxes across the UK.</p>
   </div>
 </div>
 

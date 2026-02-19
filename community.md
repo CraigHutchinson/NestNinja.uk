@@ -54,10 +54,10 @@ NestNinja follows an **open core model**: the full community edition firmware is
 
 ## 🌐 NestNinja Hub
 
-**[NestNinja Hub](https://hub.nestninja.uk)** is the community camera feed discovery site. Once your NestNinja device is set up, you'll be able to opt in to listing your live feed so other bird watchers can find and watch it.
+**[NestNinja Hub]({{ site.hub_url }})** is the community camera feed discovery site. Once your NestNinja device is set up, you'll be able to opt in to listing your live feed so other bird watchers can find and watch it.
 
 <div class="cta-buttons" style="justify-content: flex-start;">
-  <a href="https://hub.nestninja.uk" class="btn btn-primary">Visit NestNinja Hub →</a>
+  <a href="{{ site.hub_url }}" class="btn btn-primary">Visit NestNinja Hub →</a>
 </div>
 
 - Browse live nest cameras from across the UK

@@ -11,6 +11,7 @@ description: >-
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nestninja.uk" # the base hostname & protocol for your site
+hub_url: "https://hub.nestninja.uk" # Cross-site link to NestNinja Hub — overridden in _config.local.yml for local dev
 author:
   name: NestNinja Team
 email: "hello@nestninja.uk"

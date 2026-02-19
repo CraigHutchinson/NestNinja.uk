@@ -17,7 +17,7 @@ NestNinja offers:
 
 | Requirement | Version | Install |
 |---|---|---|
-| [Ruby](https://www.ruby-lang.org/en/downloads/) | 3.1+ | Windows: [RubyInstaller](https://rubyinstaller.org/downloads/) · macOS/Linux: [rbenv](https://github.com/rbenv/rbenv) or [RVM](https://rvm.io/) |
+| [Ruby](https://www.ruby-lang.org/en/downloads/) | 4.0+ | Windows: [RubyInstaller](https://rubyinstaller.org/downloads/) · macOS/Linux: [rbenv](https://github.com/rbenv/rbenv) or [RVM](https://rvm.io/) |
 | [Bundler](https://bundler.io/) | 2.x | `gem install bundler` |
 | [Jekyll](https://jekyllrb.com/docs/installation/) | 4.x | Installed automatically via `bundle install` |
 | [Git](https://git-scm.com/downloads) | any | Required to clone the repository |
@@ -41,6 +41,18 @@ bundle exec jekyll serve --livereload
 
 # View the site at:
 #   http://localhost:4000
+```
+
+### Running Both Sites Together
+
+To test cross-site links (e.g. the Hub teaser on the homepage), run
+both **NestNinja.uk** and **NestNinja.hub** at the same time.
+
+To serve this site with local-config overrides manually:
+
+```bash
+bundle exec jekyll serve --livereload --port 4000 \
+  --config _config.yml,_config.local.yml
 ```
 
 ### Building
