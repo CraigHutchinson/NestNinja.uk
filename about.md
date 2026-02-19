@@ -71,7 +71,7 @@ This project welcomes contributions from the community. See our [Community page]
 - Core component research and testing
 
 ### Roadmap
-See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja/blob/main/ROADMAP.md) for upcoming milestones.
+See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja.open/blob/main/ROADMAP.md) for upcoming milestones.
 
 ---
 
@@ -223,7 +223,7 @@ While the core team is UK-based, NestNinja is a global project welcoming contrib
 ## 📬 Contact Us
 
 **General:** [hello@nestninja.uk](mailto:hello@nestninja.uk)  
-**Technical:** [GitHub Issues](https://github.com/CraigHutchinson/NestNinja/issues)  
+**Technical:** [GitHub Issues](https://github.com/CraigHutchinson/NestNinja.open/issues)  
 **Press:** [press@nestninja.uk](mailto:press@nestninja.uk)  
 **Twitter:** [@NestNinjaUK](https://twitter.com/NestNinjaUK)
 
@@ -250,5 +250,5 @@ Happy bird watching! 🦜
 
 <div class="cta-buttons">
   <a href="/community" class="btn btn-secondary">← Community</a>
-  <a href="https://github.com/CraigHutchinson/NestNinja" class="btn btn-primary">View on GitHub →</a>
+  <a href="https://github.com/CraigHutchinson/NestNinja.open" class="btn btn-primary">View on GitHub →</a>
 </div>

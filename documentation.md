@@ -127,7 +127,7 @@ NestNinja/
 - SDIO slave to ESP32-P4
 - Factory firmware via `esp_wifi_remote`
 
-**Design Rationale:** See [ADR-002: P4 Application Host](https://github.com/CraigHutchinson/NestNinja/blob/main/docs/adr/002-p4-application-host.md)
+**Design Rationale:** See [ADR-002: P4 Application Host](https://github.com/CraigHutchinson/NestNinja.open/blob/main/docs/adr/002-p4-application-host.md)
 
 ---
 
@@ -157,11 +157,11 @@ idf.py menuconfig
 
 We document major design decisions in ADRs. Read these to understand why certain choices were made:
 
-- [ADR-001: ESP32-P4 Platform](https://github.com/CraigHutchinson/NestNinja/blob/main/docs/adr/001-esp32-p4-platform.md)
-- [ADR-002: P4 Application Host](https://github.com/CraigHutchinson/NestNinja/blob/main/docs/adr/002-p4-application-host.md)
-- [ADR-003: Single-Target Build](https://github.com/CraigHutchinson/NestNinja/blob/main/docs/adr/003-single-target-build.md)
-- [ADR-004: CMake 4.x Build System](https://github.com/CraigHutchinson/NestNinja/blob/main/docs/adr/004-cmake4-build-system.md)
-- [ADR-005: ESP-IDF v6](https://github.com/CraigHutchinson/NestNinja/blob/main/docs/adr/005-esp-idf-v6.md)
+- [ADR-001: ESP32-P4 Platform](https://github.com/CraigHutchinson/NestNinja.open/blob/main/docs/adr/001-esp32-p4-platform.md)
+- [ADR-002: P4 Application Host](https://github.com/CraigHutchinson/NestNinja.open/blob/main/docs/adr/002-p4-application-host.md)
+- [ADR-003: Single-Target Build](https://github.com/CraigHutchinson/NestNinja.open/blob/main/docs/adr/003-single-target-build.md)
+- [ADR-004: CMake 4.x Build System](https://github.com/CraigHutchinson/NestNinja.open/blob/main/docs/adr/004-cmake4-build-system.md)
+- [ADR-005: ESP-IDF v6](https://github.com/CraigHutchinson/NestNinja.open/blob/main/docs/adr/005-esp-idf-v6.md)
 
 ---
 
@@ -182,7 +182,7 @@ We document major design decisions in ADRs. Read these to understand why certain
 
 ## Development Roadmap
 
-See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja/blob/main/ROADMAP.md) for current development status and planned features.
+See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja.open/blob/main/ROADMAP.md) for current development status and planned features.
 
 ### Current Phase: Architecture Finalization 🔄
 
@@ -248,8 +248,8 @@ See our [detailed roadmap](https://github.com/CraigHutchinson/NestNinja/blob/mai
 
 We welcome contributions to the Community Edition:
 
-- [GitHub Repository](https://github.com/CraigHutchinson/NestNinja) (Community Edition - releasing late 2026)
-- [Community Forums](https://github.com/CraigHutchinson/NestNinja/discussions)
+- [GitHub Repository](https://github.com/CraigHutchinson/NestNinja.open) (Community Edition - releasing late 2026)
+- [Community Forums](https://github.com/CraigHutchinson/NestNinja.open/discussions)
 - Development guidelines (coming soon)
 
 ---
@@ -265,7 +265,7 @@ We welcome contributions to the Community Edition:
 ### Community
 
 - [NestNinja Community Forum](/community)
-- [GitHub Discussions](https://github.com/CraigHutchinson/NestNinja/discussions)
+- [GitHub Discussions](https://github.com/CraigHutchinson/NestNinja.open/discussions)
 - Follow us on [Twitter](https://twitter.com/NestNinjaUK)
 
 ---

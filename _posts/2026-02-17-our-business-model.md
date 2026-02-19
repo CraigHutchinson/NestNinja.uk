@@ -225,7 +225,7 @@ A: Once open-source, you'll be bound by the firmware license (likely GPL/Apache)
 Whether you're interested in premium products, DIY builds, or contributing to the project, we'd love to have you in the NestNinja community.
 
 - 📧 **Customers:** Sign up for launch notifications (coming soon)
-- 🔧 **Makers:** Join [discussions](https://github.com/CraigHutchinson/NestNinja/discussions)
+- 🔧 **Makers:** Join [discussions](https://github.com/CraigHutchinson/NestNinja.open/discussions)
 - 💻 **Developers:** Watch for open-source release
 - 🐦 **Bird watchers:** Follow us on [Twitter](https://twitter.com/NestNinjaUK)
 

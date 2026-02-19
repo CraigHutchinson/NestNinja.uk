@@ -242,8 +242,8 @@ If you prefer to source components yourself:
 For detailed hardware information, architecture decisions, and pinout diagrams:
 
 - [Complete Hardware Documentation]({{ site.url }}/hardware/) (Collection)
-- [ESP32-P4 Pinout Reference](https://github.com/CraigHutchinson/NestNinja/blob/main/docs/PCB_PINOUT.md)
-- [Architecture Decision Records](https://github.com/CraigHutchinson/NestNinja/tree/main/docs/adr)
+- [ESP32-P4 Pinout Reference](https://github.com/CraigHutchinson/NestNinja.open/blob/main/docs/PCB_PINOUT.md)
+- [Architecture Decision Records](https://github.com/CraigHutchinson/NestNinja.open/tree/main/docs/adr)
 
 ---
 

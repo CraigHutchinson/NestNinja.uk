@@ -239,7 +239,7 @@ Product development is progressing:
 **Get notified:**
 - 📧 Email list (coming soon)
 - 🐦 Follow [@NestNinjaUK](https://twitter.com/NestNinjaUK)
-- 💬 Join [GitHub Discussions](https://github.com/CraigHutchinson/NestNinja/discussions)
+- 💬 Join [GitHub Discussions](https://github.com/CraigHutchinson/NestNinja.open/discussions)
 
 ---
 
@@ -248,7 +248,7 @@ Product development is progressing:
 Not sure which option is right for you?
 
 - 📧 Email: [hello@nestninja.uk](mailto:hello@nestninja.uk)
-- 💬 Community: [GitHub Discussions](https://github.com/CraigHutchinson/NestNinja/discussions)
+- 💬 Community: [GitHub Discussions](https://github.com/CraigHutchinson/NestNinja.open/discussions)
 - 📖 Learn more: [About Our Business Model](/2026/02/17/our-business-model.html)
 
 ---

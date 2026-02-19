@@ -15,7 +15,7 @@ Join the NestNinja community! Whether you're building your first bird box or con
 The best place for technical discussions, feature requests, and general questions.
 
 <div class="cta-buttons" style="justify-content: flex-start;">
-  <a href="https://github.com/CraigHutchinson/NestNinja/discussions" class="btn btn-primary">Join GitHub Discussions →</a>
+  <a href="https://github.com/CraigHutchinson/NestNinja.open/discussions" class="btn btn-primary">Join GitHub Discussions →</a>
 </div>
 
 Topics:
@@ -30,7 +30,7 @@ Topics:
 NestNinja follows an **open core model**: the full community edition firmware is open source, while premium features are developed separately.
 
 <div class="cta-buttons" style="justify-content: flex-start;">
-  <a href="https://github.com/CraigHutchinson/NestNinja" class="btn btn-secondary">View on GitHub →</a>
+  <a href="https://github.com/CraigHutchinson/NestNinja.open" class="btn btn-secondary">View on GitHub →</a>
 </div>
 
 **Community Edition (Open Source):**
@@ -110,7 +110,7 @@ We welcome all kinds of contributions to the open source Community Edition:
 - Help newcomers
 
 **How to Contribute:**
-1. Check [open issues](https://github.com/CraigHutchinson/NestNinja/issues)
+1. Check [open issues](https://github.com/CraigHutchinson/NestNinja.open/issues)
 2. Fork the repository
 3. Create a feature branch
 4. Make your changes
@@ -143,7 +143,7 @@ Share your NestNinja build! We love to see:
 Email: [hello@nestninja.uk](mailto:hello@nestninja.uk)
 
 ### Technical Support
-Please use [GitHub Issues](https://github.com/CraigHutchinson/NestNinja/issues) for technical support so the entire community can benefit from the discussion.
+Please use [GitHub Issues](https://github.com/CraigHutchinson/NestNinja.open/issues) for technical support so the entire community can benefit from the discussion.
 
 ### Media & Press
 Email: [press@nestninja.uk](mailto:press@nestninja.uk)
@@ -201,7 +201,7 @@ Thank you to everyone who has contributed to NestNinja!
 
 The NestNinja Community Edition is free and open source. If you find it useful, consider:
 
-- ⭐ **Starring** the [GitHub repository](https://github.com/CraigHutchinson/NestNinja)
+- ⭐ **Starring** the [GitHub repository](https://github.com/CraigHutchinson/NestNinja.open)
 - 🐦 **Sharing** about NestNinja on social media
 - 📝 **Writing** about your experience
 - 🤝 **Contributing** code or documentation

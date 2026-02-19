@@ -71,7 +71,7 @@ The site will be generated in the `_site/` directory.
 
 ## Contributing
 
-Contributions are welcome! Please see the [main NestNinja repository](https://github.com/CraigHutchinson/NestNinja) for Community Edition firmware and hardware contributions.
+Contributions are welcome! Please see the [main NestNinja repository](https://github.com/CraigHutchinson/NestNinja.open) for Community Edition firmware and hardware contributions.
 
 For website improvements, please open an issue or pull request.
 
@@ -79,4 +79,4 @@ For website improvements, please open an issue or pull request.
 
 Website content: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-NestNinja Community Edition and hardware: See [main repository](https://github.com/CraigHutchinson/NestNinja)
+NestNinja Community Edition and hardware: See [main repository](https://github.com/CraigHutchinson/NestNinja.open)

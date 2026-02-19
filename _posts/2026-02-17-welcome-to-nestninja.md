@@ -47,7 +47,7 @@ We're currently in the **architecture finalization phase**. This involves:
 
 **Development Status:** Firmware is currently private during initial development. We'll open-source it once we reach stable release (targeting late 2026).
 
-Follow updates on our [GitHub repository](https://github.com/CraigHutchinson/NestNinja) (will be public soon!).
+Follow updates on our [GitHub repository](https://github.com/CraigHutchinson/NestNinja.open) (will be public soon!).
 
 ## What's Next?
 
@@ -66,10 +66,10 @@ Interested in NestNinja? Here's how:
 ### For Everyone:
 - 📢 Follow us on [Twitter](https://twitter.com/NestNinjaUK)
 - 📧 Join our mailing list (coming soon)
-- 💬 Participate in [Discussions](https://github.com/CraigHutchinson/NestNinja/discussions)
+- 💬 Participate in [Discussions](https://github.com/CraigHutchinson/NestNinja.open/discussions)
 
 ### For Developers/Tinkerers:
-- ⭐ Watch the [GitHub repo](https://github.com/CraigHutchinson/NestNinja) for open-source release
+- ⭐ Watch the [GitHub repo](https://github.com/CraigHutchinson/NestNinja.open) for open-source release
 - 🐛 Suggest features and report issues
 - 📝 Contribute to documentation
 - 🤝 Help other community members
@@ -88,4 +88,4 @@ We're just getting started, and we're excited to build this with the community. 
 
 ---
 
-*Have questions? Join the discussion on [GitHub](https://github.com/CraigHutchinson/NestNinja/discussions)!*
+*Have questions? Join the discussion on [GitHub](https://github.com/CraigHutchinson/NestNinja.open/discussions)!*
