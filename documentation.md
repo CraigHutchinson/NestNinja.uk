@@ -271,6 +271,6 @@ We welcome contributions to the Community Edition:
 ---
 
 <div class="cta-buttons">
-  <a href="/hardware" class="btn btn-secondary">← Hardware Overview</a>
-  <a href="/community" class="btn btn-primary">Join Community →</a>
+  <a href="{{ "/hardware" | relative_url }}" class="btn btn-secondary">← Hardware Overview</a>
+  <a href="{{ "/community" | relative_url }}" class="btn btn-primary">Join Community →</a>
 </div>

@@ -88,8 +88,8 @@ NestNinja turns any bird box into a live camera system — stream HD video, get 
 </div>
 
 <div class="cta-buttons">
-  <a href="/2026/02/17/our-business-model.html" class="btn btn-secondary">Learn More About Our Model →</a>
-  <a href="/products" class="btn btn-primary">Compare All Options →</a>
+  <a href="{{ "/2026/02/17/our-business-model.html" | relative_url }}" class="btn btn-secondary">Learn More About Our Model →</a>
+  <a href="{{ "/products" | relative_url }}" class="btn btn-primary">Compare All Options →</a>
 </div>
 
 ---

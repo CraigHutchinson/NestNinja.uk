@@ -20,7 +20,7 @@ Read this document alongside the parent project guidelines at [github.com/CraigH
 ## Repository Purpose
 
 **Audience:** End users, makers, birders, press, partners  
-**Stack:** Jekyll 4.x, GitHub Pages, Minima theme (remote, `master` branch)  
+**Stack:** Jekyll 4.x, GitHub Pages, Minima theme (`remote_theme: jekyll/minima@master`)
 **Live URL:** [nestninja.uk](https://nestninja.uk)  
 **Language:** UK English throughout
 
@@ -47,6 +47,20 @@ Use throughout: *colour*, *behaviour*, *licence* (noun), *recognise*, *customise
 - **Community Edition** — not "free version", "lite", or "open version"
 - **Premium Complete System** — exact name, not "full product"
 - **Smart Camera Module** — exact name
+
+---
+
+## Architectural Decision: Always Use `relative_url` for Internal Links and Assets
+
+**Decision (2026-02-23):** Every internal link and asset reference must pass through Jekyll's `relative_url` filter. Never output bare absolute paths like `/assets/...` or `/features` directly into HTML attributes.
+
+**Rationale:** The GitHub Actions workflow passes `--baseurl "${{ steps.pages.outputs.base_path }}"` at build time. Without a custom domain configured, `base_path` resolves to `/NestNinja.uk`, so bare paths resolve to the wrong host root. With `baseurl: ""` in production the filter is a no-op, so there is no downside.
+
+**Rules:**
+- In **raw HTML inside `.md` files** (e.g. `<a href="...">`, `<img src="...">`): use `{{ "/path" | relative_url }}`.
+- In **`_data/` YAML** navigation/menu files: the Minima theme applies `relative_url` to `url:` entries in its own templates — verify before adding new data-driven links.
+- **Do not** use `site.baseurl` string concatenation — use `| relative_url` instead.
+- **og:image** uses `absolute_url` (not `relative_url`) — that is intentional and correct for social sharing meta tags.
 
 ---
 
@@ -125,6 +139,6 @@ Mermaid only — no binary diagram files (PNG/SVG). This aligns with the project
 
 ## Version
 
-**Last Updated:** 2026-02-19  
-**Applies to:** NestNinja.uk repository only  
+**Last Updated:** 2026-02-23
+**Applies to:** NestNinja.uk repository only
 **For:** Claude, GitHub Copilot, and other AI coding assistants

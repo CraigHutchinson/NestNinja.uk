@@ -228,6 +228,6 @@ The NestNinja Community Edition is free and open source. If you find it useful, 
 ---
 
 <div class="cta-buttons">
-  <a href="/documentation" class="btn btn-secondary">← Documentation</a>
-  <a href="/about" class="btn btn-primary">About →</a>
+  <a href="{{ "/documentation" | relative_url }}" class="btn btn-secondary">← Documentation</a>
+  <a href="{{ "/about" | relative_url }}" class="btn btn-primary">About →</a>
 </div>

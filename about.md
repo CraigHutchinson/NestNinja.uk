@@ -250,6 +250,6 @@ Happy bird watching! 🦜
 ---
 
 <div class="cta-buttons">
-  <a href="/community" class="btn btn-secondary">← Community</a>
+  <a href="{{ "/community" | relative_url }}" class="btn btn-secondary">← Community</a>
   <a href="https://github.com/CraigHutchinson/NestNinja.open" class="btn btn-primary">View on GitHub →</a>
 </div>

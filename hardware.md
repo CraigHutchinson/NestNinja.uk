@@ -248,6 +248,6 @@ For detailed hardware information, architecture decisions, and pinout diagrams:
 ---
 
 <div class="cta-buttons">
-  <a href="/features" class="btn btn-secondary">← Back to Features</a>
-  <a href="/documentation" class="btn btn-primary">Documentation →</a>
+  <a href="{{ "/features" | relative_url }}" class="btn btn-secondary">← Back to Features</a>
+  <a href="{{ "/documentation" | relative_url }}" class="btn btn-primary">Documentation →</a>
 </div>

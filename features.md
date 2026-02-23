@@ -149,7 +149,7 @@ Capture amazing footage for documentaries, time-lapses, or simply sharing with f
 ---
 
 <div class="cta-buttons">
-  <a href="/hardware" class="btn">View Hardware Details</a>
-  <a href="/documentation" class="btn">Read Documentation</a>
-  <a href="/community" class="btn btn-primary">Join Community</a>
+  <a href="{{ "/hardware" | relative_url }}" class="btn">View Hardware Details</a>
+  <a href="{{ "/documentation" | relative_url }}" class="btn">Read Documentation</a>
+  <a href="{{ "/community" | relative_url }}" class="btn btn-primary">Join Community</a>
 </div>
